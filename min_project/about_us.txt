@@ -1,0 +1,19 @@
+Student 1: 
+name: Sahithi 
+education: B.Tech in KL University 
+tech skills: Java, C, C++
+
+Student 2: 
+name: Vidhya 
+education: B.Tech in KLH 
+tech skills: C, C++, HTML, CSS
+
+Student 3: 
+name: Aadhya 
+education: CSE in KLH 
+tech skills: Music, Dance, yoga
+
+Student 4: 
+name: Kara 
+education: Btech in CSE 
+tech skills: Front End Dev, C++
