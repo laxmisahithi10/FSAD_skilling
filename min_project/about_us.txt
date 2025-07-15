@@ -11,7 +11,7 @@ tech skills: C, C++, HTML, CSS
 Student 3: 
 name: Aadhya 
 education: CSE in KLH 
-tech skills: Music, Dance, yoga
+tech skills: C, C++, HTML
 
 Student 4: 
 name: Kara 
