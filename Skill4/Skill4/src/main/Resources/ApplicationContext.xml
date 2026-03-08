@@ -1,0 +1,15 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+xsi:schemaLocation="
+http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="student" class="com.klu.entity.Student">
+		<constructor-arg value="101"/>
+		<constructor-arg value="Sahithi"/>
+		<constructor-arg value="Computer Science"/>
+		<constructor-arg value="2"/>	
+	</bean>
+
+</beans>
